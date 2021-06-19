@@ -1,2 +1,2 @@
 # Attenuator
-A simple Calculator for Attenuation. Nothing special.
+A simple RF Calculator for Attenuation. Nothing special.
